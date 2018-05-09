@@ -1,7 +1,7 @@
 {
   "name": "@o2team/gulp-prettier-eslint",
   "description": "Create vinyl streams to pipe to prettier-eslint",
-  "version": "0.0.1",
+  "version": "3.0.1",
   "main": "index.js",
   "repository": {
     "type": "git",
