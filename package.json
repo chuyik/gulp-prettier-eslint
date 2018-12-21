@@ -1,11 +1,11 @@
 {
-  "name": "@o2team/gulp-prettier-eslint",
+  "name": "@chuyik/gulp-prettier-eslint",
   "description": "Create vinyl streams to pipe to prettier-eslint",
   "version": "3.0.1",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/o2team/gulp-prettier-eslint.git"
+    "url": "git+https://github.com/chuyik/gulp-prettier-eslint.git"
   },
   "scripts": {
     "lint": "prettier-eslint '**/*.js' --write --eslint-config-path .eslintrc.yml",
